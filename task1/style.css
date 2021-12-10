@@ -1,0 +1,11 @@
+#navbar #list{
+    background-color: rgb(0, 109, 119);
+    border-radius: 10px;
+    border-bottom: none;
+}
+#navbar #list li a{
+    color: white;
+}
+.clicked{
+    background-color: rgb(2, 58, 63);
+}
